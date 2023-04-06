@@ -10,7 +10,7 @@ for plan in plans:
     cur_destination = destination.index(plan)
     tmp_x = cx + dx[cur_destination]
     tmp_y = cy + dy[cur_destination]
-    if tmp_x == 0 or tmp_y == 0:
+    if tmp_x < 1 or tmp_y < 1 or tmp_x > n or tmp_y > n:
         continue
 
     cx = tmp_x
