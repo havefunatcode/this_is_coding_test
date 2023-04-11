@@ -31,3 +31,12 @@
   
 - 예외 : 3이 들어간 시간(03, 13, 23)의 경우에는 3이 들어갈 수 있는 경우의 수가 3600가지이다.  
   (시간에 이미 3이들어가 있기 때문)
+  
+## 시간 측정
+- 책의 풀이  
+![image](https://user-images.githubusercontent.com/59163429/231187293-e221e1ce-d8a2-4546-881f-023d0e6287f5.png)
+- 나의 풀이  
+![image](https://user-images.githubusercontent.com/59163429/231187427-d5758588-d827-4970-9dae-940508648264.png)
+- 나의 풀이(2_1)  
+![image](https://user-images.githubusercontent.com/59163429/231187529-62873f2d-6ce2-44f8-936c-0dcb84b94d74.png)
+- 해당 풀이들에서 유의미한 속도차이가 있을거라고 예상했고, 예상대로 수학적 방식으로 풀이한 2_1번이 가장 속도가 빠른것을 확인할 수 있었다.
